@@ -2,4 +2,4 @@
 from bookshelf.models import Book
 
 # retrieve all attributes
-books = Book.objects.get('1984')
+books = Book.objects.get(title='1984')
