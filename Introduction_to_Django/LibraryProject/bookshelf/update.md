@@ -2,4 +2,4 @@
 from bookshelf.models import Book
 
 # update
-update_book = Book.update('1984')
+update_book = book.title('Nineteen Eighty-Four')
