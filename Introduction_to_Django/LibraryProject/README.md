@@ -1,3 +1,2 @@
-# Library Project
+# LibraryProject
 
-this is non empty file
